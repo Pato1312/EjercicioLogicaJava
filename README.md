@@ -4,4 +4,4 @@ HOLA!
 
 *Por ahora funciona solo con la terminal, digitas el ejercicio que quieres ver y sigues las instrucciones
 
-*Proximos cambios, quiero aplicar la logíca de POO donde cada ejercicio sera una objeto con su número - nombre - descripción y función 
+*Proximo proyecto, ya con cierta cantidad de ejercicios hechos, traspazar a SpringBoot para practicar utilzando el framework
